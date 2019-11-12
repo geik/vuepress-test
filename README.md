@@ -2,6 +2,9 @@
 
 Dit is een __TEST__.
 
+Want to run this thing locally?  
+Install [VuePress](https://vuepress.vuejs.org/)
+
 ## Paragraaf 1
 
 Dit is paragraaf 1.
